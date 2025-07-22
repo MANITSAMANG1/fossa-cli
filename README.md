@@ -1,4 +1,4 @@
-<!-- markdown-link-check-disable-next-line -->
+Mr.Manit Samang Thailand<!-- markdown-link-check-disable-next-line -->[มานิตย์ สำอาง ประเทศไทย]
 ![FOSSA](https://raw.githubusercontent.com/fossas/fossa-cli/master/docs/assets/header.png)
 
 # FOSSA CLI
